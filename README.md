@@ -3,6 +3,8 @@ List of JavaScript Style & Language Guides
 
 Pointers to useful, well-written, and otherwise beautiful javascript style guides.
 
+This should be updated fairly regularly. As usual, **pull requests are encouraged**. If you're contributing a link, be sure to include a few words on why you're adding it and some sort of self-attribution so that people can know from whom it came.
+
 
 
 #### The Guides (in no particular order)
