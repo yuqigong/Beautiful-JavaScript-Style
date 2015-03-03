@@ -5,7 +5,7 @@ Pointers to useful, well-written, and otherwise beautiful javascript style guide
 
 
 
-#### And Now For The Guides (in no particular order)
+#### The Guides (in no particular order)
 
 :link: **「[idiomatic.js](https://github.com/rwaldron/idiomatic.js)」**, Principles of Writing Consistent, Idiomatic JavaScript.
 
