@@ -1,18 +1,24 @@
 List of JavaScript Style & Language Guides
 ==========================================
 
-Pointers to useful, well-written, and otherwise beautiful javascript style guides.
+Pointers to useful, well-written javascript style guides, articles and freakin amazing tools.
 
-This should be updated fairly regularly. As usual, **pull requests are encouraged**. If
-you're contributing a link, be sure to include a few words on why you're adding it and
-some sort of self-attribution so that people can know from whom it came.
+This should be updated fairly regularly. As usual, **pull requests are encouraged**. If you're contributing a link,
+ be sure to include a few words on why you're adding it, it's description and some sort of self-attribution so that
+ people can know from whom it came.
+
+
+
+#### The Articles (in no particular order)
+
+:link: **「[Auto-formatting JavaScript Code Style](https://medium.com/@addyosmani/auto-formatting-javascript-code-style-fe0f98a923b8)」**
 
 
 
 #### The Guides (in no particular order)
 
-:link: **「[idiomatic.js](https://github.com/rwaldron/idiomatic.js)」**, Principles of
-Writing Consistent, Idiomatic JavaScript.
+:link: **「[idiomatic.js](https://github.com/rwaldron/idiomatic.js)」**, Principles of Writing Consistent, Idiomatic
+ JavaScript.
 
 :link: **「[Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)」**,
 Every major open-source project has its own style guide: a set of conventions (sometimes arbitrary) about how to
@@ -137,9 +143,3 @@ with a more general Style that's applicable to AngularJS projects large and smal
 :link: **「[JSCS](http://jscs.info/)」**, JSCS is a code style linter for programmatically enforcing your style guide.
  You can configure JSCS for your project in detail using over 90 validation rules, including presets from popular
  style guides like jQuery, Airbnb, Google, and more.
-
-
-
-#### The Articles (in no particular order)
-
-:link: **「[Auto-formatting JavaScript Code Style](https://medium.com/@addyosmani/auto-formatting-javascript-code-style-fe0f98a923b8)」**
