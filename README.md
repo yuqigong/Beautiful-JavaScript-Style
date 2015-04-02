@@ -1,5 +1,5 @@
-List of JavaScript Style Guides
-===============================
+Beautiful JavaScript Style
+==========================
 
 Pointers to useful, well-written javascript style guides, articles and freakin amazing tools.
 
