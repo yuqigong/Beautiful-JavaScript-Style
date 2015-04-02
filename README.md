@@ -15,6 +15,21 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 
 
 
+#### The Tools (in no particular order)
+
+:link: **「[JSHint](http://jshint.com/)」**, JSHint is a community-driven tool to detect errors and potential problems
+ in JavaScript code and to enforce your team's coding conventions. It is very flexible so you can easily adjust it
+ to your particular coding guidelines and the environment you expect your code to execute in. JSHint is open source
+ and will always stay this way.
+
+:link: **「[JSLint](http://jslint.com/)」**, The JavaScript Code Quality Tool.
+
+:link: **「[JSCS](http://jscs.info/)」**, JSCS is a code style linter for programmatically enforcing your style guide.
+ You can configure JSCS for your project in detail using over 90 validation rules, including presets from popular
+ style guides like jQuery, Airbnb, Google, and more.
+
+
+
 #### The Guides (in no particular order)
 
 :link: **「[idiomatic.js](https://github.com/rwaldron/idiomatic.js)」**, Principles of Writing Consistent, Idiomatic
@@ -128,18 +143,3 @@ with a more general Style that's applicable to AngularJS projects large and smal
  JavaScript has become a critical component in developing WordPress-based applications (themes and plugins) as
  well as WordPress core. Standards are needed for formatting and styling JavaScript code to maintain the same code
  consistency as the WordPress standards.
-
-
-
-#### The Tools (in no particular order)
-
-:link: **「[JSHint](http://jshint.com/)」**, JSHint is a community-driven tool to detect errors and potential problems
- in JavaScript code and to enforce your team's coding conventions. It is very flexible so you can easily adjust it
- to your particular coding guidelines and the environment you expect your code to execute in. JSHint is open source
- and will always stay this way.
-
-:link: **「[JSLint](http://jslint.com/)」**, The JavaScript Code Quality Tool.
-
-:link: **「[JSCS](http://jscs.info/)」**, JSCS is a code style linter for programmatically enforcing your style guide.
- You can configure JSCS for your project in detail using over 90 validation rules, including presets from popular
- style guides like jQuery, Airbnb, Google, and more.
