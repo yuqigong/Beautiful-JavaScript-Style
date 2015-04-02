@@ -17,16 +17,34 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 
 #### The Tools (in no particular order)
 
+:link: **「[JSCS](http://jscs.info/)」**, JSCS is a code style linter for programmatically enforcing your style guide.
+ You can configure JSCS for your project in detail using over 90 validation rules, including presets from popular
+ style guides like jQuery, Airbnb, Google, and more.
+
+:link: **「[gulp-jscs](https://www.npmjs.com/package/gulp-jscs/)」**, Gulp task for checking JavaScript Code Style with JSCS.
+
+:link: **「[grunt-jscs](https://www.npmjs.com/package/grunt-jscs/)」**, Grunt task for checking JavaScript Code Style with JSCS.
+
+:link: **「[JSCS-Formatter](https://packagecontrol.io/packages/JSCS-Formatter/)」**, Sublime Text 3 Plugin to Autoformat with JSCS.
+
+:link: **「[Sublime​Linter-jscs](https://packagecontrol.io/packages/SublimeLinter-jscs/)」**, SublimeLinter 3 plugin for jscs.
+
+:link: **「[ESLint](http://eslint.org/)」**, The pluggable linting utility for JavaScript and JSX.
+
 :link: **「[JSHint](http://jshint.com/)」**, JSHint is a community-driven tool to detect errors and potential problems
  in JavaScript code and to enforce your team's coding conventions. It is very flexible so you can easily adjust it
  to your particular coding guidelines and the environment you expect your code to execute in. JSHint is open source
  and will always stay this way.
 
+:link: **「[JSHint Plugins for text editors and IDEs](http://jshint.com/install/)」**, From offical site of JSHint.
+
+:link: **「[Sublime​Linter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)」**, SublimeLinter plugin for JavaScript, using
+ jshint.
+
 :link: **「[JSLint](http://jslint.com/)」**, The JavaScript Code Quality Tool.
 
-:link: **「[JSCS](http://jscs.info/)」**, JSCS is a code style linter for programmatically enforcing your style guide.
- You can configure JSCS for your project in detail using over 90 validation rules, including presets from popular
- style guides like jQuery, Airbnb, Google, and more.
+:link: **「[Sublime​Linter-contrib-jslint](https://packagecontrol.io/packages/SublimeLinter-contrib-jslint)」**, SublimeLinter 3 plugin for
+ JavaScript, using [JSLint](https://github.com/reid/node-jslint).
 
 
 
