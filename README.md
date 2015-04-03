@@ -161,3 +161,6 @@ with a more general Style that's applicable to AngularJS projects large and smal
  JavaScript has become a critical component in developing WordPress-based applications (themes and plugins) as
  well as WordPress core. Standards are needed for formatting and styling JavaScript code to maintain the same code
  consistency as the WordPress standards.
+
+:link: **「[JavaScript Standard Style](https://github.com/feross/standard/)」**, JavaScript Standard Style — One Style
+ to Rule Them All.
